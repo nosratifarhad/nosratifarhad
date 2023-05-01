@@ -11,7 +11,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a software developer from <b>MySelf</b> 」
+                「 I'm a software developer from <b>_</b> 」
                 <br>
                 「 Focused on creating impactful web applications that improve lives</b> 」
                 <br>
