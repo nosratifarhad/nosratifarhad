@@ -35,10 +35,3 @@ Professional skills
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=nosratifarhad&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-<p align="center">
-  🔝 Top Contributed Repo
-</p>
-
-![](https://github-contributor-stats.vercel.app/api?username=nosratifarhad&limit=5&theme=buddhism&combine_all_yearly_contributions=true)
-
