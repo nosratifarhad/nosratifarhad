@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=nosratifarhad&icon=2&color=0)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=nosratifarhad&icon=2&color=0)](https://visitcount.itsvg.in)-->
 
 <!-- Title -->
 <h3 align="center">
