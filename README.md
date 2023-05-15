@@ -28,7 +28,7 @@ My Open Source Projects
 Professional skills
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nginx,docker,angular,mongodb,git,github,grafana,redis,rabbitmq,postman,azure,typescript,gitlab,html,kafka,jenkins,visualstudio,electron,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nginx,docker,angular,mongodb,git,github,grafana,redis,rabbitmq,postman,azure,typescript,gitlab,html,python,kafka,jenkins,visualstudio,electron,&theme=light)](https://skillicons.dev)
 <p align="center">
  📊 GitHub Stats
 </p>
