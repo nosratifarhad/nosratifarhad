@@ -1,22 +1,27 @@
 <!--[![](https://visitcount.itsvg.in/api?id=nosratifarhad&icon=2&color=0)](https://visitcount.itsvg.in)-->
 
 <!-- Title -->
+<p align="left">
+        <samp>
+        woman life freedom
+        </samp>
+</p>
+
 <h3 align="center">
-        <samp>&gt; Hey There!, I am farhad nosrati
+        <samp>&gt; Hey There!, I am farhad nosrati فرهاد نصرتی
         </samp>
 </h3>
-<br>
-
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a software developer from <b>_</b> 」
+                「 I'm a software engineer <b>.</b> 」
                 <br>
                 「 Focused on creating impactful web applications that improve lives</b> 」
                 <br>
                 <br>
         </samp>
 </p>
+
 <!--<p align="center">
 My Open Source Projects 
 </p>-->
@@ -24,8 +29,9 @@ My Open Source Projects
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farhad-nosrati-فرهاد-نصرتی-231b84185/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10896487/farhad-nosrati) [![YouTube](https://img.shields.io/badge/YouTube-%230077B5.svg?logo=youtube&logoColor=white&&color=red)](https://youtube.com/farhadnosrati)
 [![virgool](https://img.shields.io/badge/virgool-farhad%20nosrati-blue)](https://virgool.io/@farhadnosrati/) 
 
+<!--Professional-->
 <p align="center">
-Professional skills
+ skills
 </p>
 
 <p align="left">
