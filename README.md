@@ -21,7 +21,8 @@
 My Open Source Projects 
 </p>-->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farhad-nosrati-فرهاد-نصرتی-231b84185/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10896487/farhad-nosrati) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farhad-nosrati-فرهاد-نصرتی-231b84185/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10896487/farhad-nosrati) [![YouTube](https://img.shields.io/badge/YouTube-%230077B5.svg?logo=youtube&logoColor=white&&color=red)](https://youtube.com/farhadnosrati)
+[![virgool](https://img.shields.io/badge/virgool-farhad%20nosrati-blue)](https://virgool.io/@farhadnosrati/) 
 
 <p align="center">
 Professional skills
