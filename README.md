@@ -8,13 +8,13 @@
 </p>
 
 <h3 align="center">
-        <samp>&gt; Hey There!, I am farhad nosrati فرهاد نصرتی
+        <samp>&gt; Hey There!, I am farhad nosrati
         </samp>
 </h3>
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm a software engineer <b>.</b> 」
+                「 I'm a software engineer <b> and </b> novice founder 」
                 <br>
                 「 Focused on creating impactful web applications that improve lives</b> 」
                 <br>
