@@ -3,7 +3,7 @@
 <!-- Title -->
 <p align="left">
         <samp>&gt;
-        Woman Life Freedom 💪💪💪
+        woman life freedom 💪💪💪
         </samp>
 </p>
 
