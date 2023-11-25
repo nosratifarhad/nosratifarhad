@@ -7,6 +7,8 @@
         </samp>
 </p>
 
+<a align="center" href="http://web.byebikari.ir/" target="_blank">:sunglasses:	 This is my new project that I am working on in my free time :sunglasses:	</a>
+
 <h3 align="center">
         <samp>&gt; Hey There!, I am farhad nosrati
         </samp>
