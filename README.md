@@ -7,8 +7,6 @@
         </samp>
 </p>
 
-<a align="center" href="http://web.byebikari.ir/" target="_blank">:sunglasses:	 This is my new project that I am working on in my free time :sunglasses:	</a>
-
 <h3 align="center">
         <samp>&gt; Hey There!, I am farhad nosrati
         </samp>
@@ -24,9 +22,8 @@
         </samp>
 </p>
 
-<!--<p align="center">
-My Open Source Projects 
-</p>-->
+<h3 align="center"> <a  href="http://web.byebikari.ir/" target="_blank"> :point_right: This is my project that I am developing in my spare time. :sunglasses: :muscle: </a> </h3>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farhad-nosrati-فرهاد-نصرتی-231b84185/) [![virgool](https://img.shields.io/badge/virgool-farhad%20nosrati-blue)](https://virgool.io/@farhadnosrati/)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10896487/farhad-nosrati) [![YouTube](https://img.shields.io/badge/YouTube-%230077B5.svg?logo=youtube&logoColor=white&&color=red)](https://www.youtube.com/@farhadnosrati)
 
