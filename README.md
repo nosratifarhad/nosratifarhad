@@ -1,11 +1,11 @@
 <!--[![](https://visitcount.itsvg.in/api?id=nosratifarhad&icon=2&color=0)](https://visitcount.itsvg.in)-->
 
-<!-- Title -->
+<!-- Title
 <p align="left">
         <samp>&gt;
         woman life freedom 
         </samp>
-</p>
+</p> -->
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am farhad nosrati
